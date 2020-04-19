@@ -69,7 +69,7 @@ namespace HW_7
 
 
     ///////////////////////////Task_3//////////////////////////////////////////
-            MyBook NewBook = new MyBook();
+           /*  MyBook NewBook = new MyBook();
             Book_Name n = new Book_Name();
             Console.WriteLine("Введите данные для слейдующая книга");
             Console.Write("\nНазвание книга: \t");
@@ -129,9 +129,44 @@ namespace HW_7
                 Console.ForegroundColor = ConsoleColor.Magenta;
                 Console.WriteLine($"Контент книга\t: {this.B_Author}");
             }
-        }
+        } */
     ///////////////////////////EndTask_3///////////////////////////////////////
+    
 
+    ///////////////////////////Task_4///////////////////////////////////////
+            ProgLang oneLan = new ProgLang("C# - ", "- мультипарадигмальный, ООП", "- Андерс Хейлсберг", "2000 года");
+            ProgLang twoLan = new ProgLang("С++  ", "- мультипарадигмальный, ООП", "- Страуструп, Бьёрн", "1983 года");
+            ProgLang threeLan = new ProgLang("JS - ", "- мультипарадигмальный, ООП", "- Брендан Эйх", "1995 года");
+            oneLan.GetInfo();
+            twoLan.GetInfo();
+            threeLan.GetInfo();
+
+        }
+        class ProgLang // класс языки программирование
+        {
+            public string ProgrammerLang{get; set;}
+            public string Paradigm{get; set;}
+            public string Author{get; set;}
+            public string FirstApp{get; set;}//FirstAppeared - Первий выпуск
+            
+            
+            public ProgLang(string lang, string par, string auth, string fapp)
+            {
+                this.ProgrammerLang = lang;
+                this.Paradigm = par;
+                this.Author = auth;
+                this.FirstApp = fapp;
+                
+
+            }
+             public void GetInfo()
+            {
+                Console.WriteLine($"\n\nИнформация про язык программирование {this.ProgrammerLang}\n");
+                Console.WriteLine($"{this.ProgrammerLang} Этот язык впервые появился {this.FirstApp}.\nАвтор язык является {this.Author}.\nКласс языка {this.Paradigm}");
+                
+            }
+        }
+        ///////////////////////////EndTask_4///////////////////////////////////////
     }
     
 }
