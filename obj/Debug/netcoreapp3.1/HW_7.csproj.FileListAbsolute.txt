@@ -5,9 +5,14 @@ C:\Users\SHOHIN\Desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\HW_7.runtimecon
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\HW_7.dll
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\HW_7.pdb
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.csprojAssemblyReference.cache
-C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.csproj.CoreCompileInputs.cache
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.AssemblyInfoInputs.cache
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.AssemblyInfo.cs
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.dll
 C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.pdb
-C:\Users\SHOHIN\Desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.genruntimeconfig.cache
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SHOHIN\desktop\c#_projects\HW_7\obj\Debug\netcoreapp3.1\HW_7.csproj.CopyComplete
