@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SHOHIN\\desktop\\c#_projects\\HW_7\\HW_7.csproj": {}
+    "C:\\Users\\SHOHIN\\Desktop\\c#_projects\\HW_7\\HW_7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SHOHIN\\desktop\\c#_projects\\HW_7\\HW_7.csproj": {
+    "C:\\Users\\SHOHIN\\Desktop\\c#_projects\\HW_7\\HW_7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SHOHIN\\desktop\\c#_projects\\HW_7\\HW_7.csproj",
+        "projectUniqueName": "C:\\Users\\SHOHIN\\Desktop\\c#_projects\\HW_7\\HW_7.csproj",
         "projectName": "HW_7",
-        "projectPath": "C:\\Users\\SHOHIN\\desktop\\c#_projects\\HW_7\\HW_7.csproj",
+        "projectPath": "C:\\Users\\SHOHIN\\Desktop\\c#_projects\\HW_7\\HW_7.csproj",
         "packagesPath": "C:\\Users\\SHOHIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SHOHIN\\desktop\\c#_projects\\HW_7\\obj\\",
+        "outputPath": "C:\\Users\\SHOHIN\\Desktop\\c#_projects\\HW_7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
